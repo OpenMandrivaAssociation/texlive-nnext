@@ -1,6 +1,6 @@
 Name:		texlive-nnext
 Version:	56575
-Release:	1
+Release:	2
 Summary:	Extension for the gb4e package
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/nnext
